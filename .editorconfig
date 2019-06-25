@@ -1,0 +1,7 @@
+# EditorConfig file for github
+root = true
+
+# 4 space indentation
+[*.{c,h,editorconfig}]
+indent_style = tab
+indent_size = 4
