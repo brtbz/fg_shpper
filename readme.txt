@@ -15,7 +15,9 @@ shpper.exe -d UIF0.SHP (transparent pixels replaced by weird debug colors, oh ye
 
 DOWNLOADS
 =========
-Binaries for Windows will be here as soon as I can figure how it's done here on github
+Windows binaries here:
+https://github.com/brtbz/fg_shpper/releases
+https://github.com/brtbz/fg_shpper/releases/download/1.0/fg_shpper_10_win_x64.zip
 
 
 BUILDING
