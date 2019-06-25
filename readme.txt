@@ -1,6 +1,6 @@
 Fantasy General SHP-file extractor v1.0 by brtbz
 ================================================
-Extracts images from Fantasy General SHP-files and saves them in 32-bit RGBA PNGs.
+Command line tool that extracts images from Fantasy General SHP-files and saves them in 32-bit RGBA PNGs.
 Fantasy General is a cool computer game by SSI originally released in 1996.
 Tested on Linux and Windows. Would probably work on Mac too.
 
